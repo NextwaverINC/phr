@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>รหัสสถานบริการ</text_th>
+		<text>hospcode</text>
+	</Table>
+	<Table>
+		<text_th>แฟ้มที่ขอแก้ไข</text_th>
+		<text>tablename</text>
+	</Table>
+	<Table>
+		<text_th>รายละเอียดข้อมูล</text_th>
+		<text>data_correct</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

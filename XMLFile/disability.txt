@@ -1,0 +1,11 @@
+disability
+hospcode
+disabid
+pid
+disabtype
+disabcause
+diagcode
+date_detect
+date_disab
+d_update
+

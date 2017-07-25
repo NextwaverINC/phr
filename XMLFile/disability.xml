@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>disabid</text>
+	</Table>
+	<Table>
+		<text>disabtype</text>
+	</Table>
+	<Table>
+		<text>disabcause</text>
+	</Table>
+	<Table>
+		<text>diagcode</text>
+	</Table>
+	<Table>
+		<text>date_detect</text>
+	</Table>
+	<Table>
+		<text>date_disab</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

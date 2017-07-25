@@ -1,0 +1,16 @@
+drug_opd
+hospcode
+pid
+seq
+date_serv
+clinic
+didstd
+dname
+amount
+unit
+unit_packing
+drugprice
+drugcost
+provider
+d_update
+

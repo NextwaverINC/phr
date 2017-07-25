@@ -1,0 +1,11 @@
+women
+hospcode
+pid
+fptype
+nofpcause
+totalson
+numberson
+abortion
+stillbirth
+d_update
+

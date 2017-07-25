@@ -1,0 +1,14 @@
+prenatal
+hospcode
+pid
+gravida
+lmp
+edc
+vdrl_result
+hb_result
+hiv_result
+date_hct
+hct_result
+thalassemia
+d_update
+

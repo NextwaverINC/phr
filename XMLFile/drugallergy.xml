@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>daterecord</text>
+	</Table>
+	<Table>
+		<text>drugallergy</text>
+	</Table>
+	<Table>
+		<text>dname</text>
+	</Table>
+	<Table>
+		<text>typedx</text>
+	</Table>
+	<Table>
+		<text>alevel</text>
+	</Table>
+	<Table>
+		<text>symptom</text>
+	</Table>
+	<Table>
+		<text>informant</text>
+	</Table>
+	<Table>
+		<text>informhosp</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

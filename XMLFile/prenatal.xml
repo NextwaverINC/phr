@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>prenatal</text>
+	</Table>
+	<Table>
+		<text>hospcode</text>
+	</Table>
+	<Table>
+		<text>pid</text>
+	</Table>
+	<Table>
+		<text>gravida</text>
+	</Table>
+	<Table>
+		<text>lmp</text>
+	</Table>
+	<Table>
+		<text>edc</text>
+	</Table>
+	<Table>
+		<text>vdrl_result</text>
+	</Table>
+	<Table>
+		<text>hb_result</text>
+	</Table>
+	<Table>
+		<text>hiv_result</text>
+	</Table>
+	<Table>
+		<text>date_hct</text>
+	</Table>
+	<Table>
+		<text>hct_result</text>
+	</Table>
+	<Table>
+		<text>thalassemia</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

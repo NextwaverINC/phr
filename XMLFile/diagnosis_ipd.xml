@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>an</text>
+	</Table>
+	<Table>
+		<text>datetime_admit</text>
+	</Table>
+	<Table>
+		<text>warddiag</text>
+	</Table>
+	<Table>
+		<text>diagtype</text>
+	</Table>
+	<Table>
+		<text>diagcode</text>
+	</Table>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

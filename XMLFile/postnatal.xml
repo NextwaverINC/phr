@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text>gravida</text>
+	</Table>
+	<Table>
+		<text>bdate</text>
+	</Table>
+	<Table>
+		<text>ppcare</text>
+	</Table>
+	<Table>
+		<text>ppplace</text>
+	</Table>
+	<Table>
+		<text>ppresult</text>
+	</Table>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

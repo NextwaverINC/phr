@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>fptype</text>
+	</Table>
+	<Table>
+		<text>nofpcause</text>
+	</Table>
+	<Table>
+		<text>totalson</text>
+	</Table>
+	<Table>
+		<text>numberson</text>
+	</Table>
+	<Table>
+		<text>abortion</text>
+	</Table>
+	<Table>
+		<text>stillbirth</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

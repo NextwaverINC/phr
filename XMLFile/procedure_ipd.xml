@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>procedure_ipd</text>
+	</Table>
+	<Table>
+		<text>hospcode</text>
+	</Table>
+	<Table>
+		<text>pid</text>
+	</Table>
+	<Table>
+		<text>an</text>
+	</Table>
+	<Table>
+		<text>datetime_admit</text>
+	</Table>
+	<Table>
+		<text>wardstay</text>
+	</Table>
+	<Table>
+		<text>procedcode</text>
+	</Table>
+	<Table>
+		<text>timestart</text>
+	</Table>
+	<Table>
+		<text>timefinish</text>
+	</Table>
+	<Table>
+		<text>serviceprice</text>
+	</Table>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

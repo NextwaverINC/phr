@@ -1,0 +1,11 @@
+drug_refer
+hospcode
+referid
+referid_province
+datetime_dstart
+datetime_dfinish
+didstd
+dname
+ddescription
+d_update
+

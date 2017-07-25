@@ -1,0 +1,13 @@
+drugallergy
+hospcode
+pid
+daterecord
+drugallergy
+dname
+typedx
+alevel
+symptom
+informant
+informhosp
+d_update
+

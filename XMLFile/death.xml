@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>สถานบริการที่เสียชีวิต</text_th>
+		<text>hospdeath</text>
+	</Table>
+	<Table>
+		<text_th>เลขที่ผู้ป่วยใน (AN)</text_th>
+		<text>an</text>
+	</Table>
+	<Table>
+		<text_th>ลําดับที่</text_th>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text_th>วันที่ตาย</text_th>
+		<text>ddeath</text>
+	</Table>
+	<Table>
+		<text_th>รหัสโรคที่เป็นสาเหตุการตาย_a</text_th>
+		<text>cdeath_a</text>
+	</Table>
+	<Table>
+		<text_th>รหัสโรคที่เป็นสาเหตุการตาย_b</text_th>
+		<text>cdeath_b</text>
+	</Table>
+	<Table>
+		<text_th>รหัสโรคที่เป็นสาเหตุการตาย_c</text_th>
+		<text>cdeath_c</text>
+	</Table>
+	<Table>
+		<text_th>รหัสโรคที่เป็นสาเหตุการตาย_d</text_th>
+		<text>cdeath_d</text>
+	</Table>
+	<Table>
+		<text_th>รหัสโรคหรือภาวะอื่นที่เป็นเหตุ</text_th>
+		<text>odisease</text>
+	</Table>
+	<Table>
+		<text_th>สาเหตุการตาย</text_th>
+		<text>cdeath</text>
+	</Table>
+	<Table>
+		<text_th>การตั้งครรภ์และการคลอด</text_th>
+		<text>pregdeath</text>
+	</Table>
+	<Table>
+		<text_th>สถานที่ตาย</text_th>
+		<text>pdeath</text>
+	</Table>
+	<Table>
+		<text_th>เลขทีผู้ให้บริการ</text_th>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปีที่ปรับปรุงข้อมูล</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

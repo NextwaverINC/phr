@@ -1,0 +1,13 @@
+procedure_ipd
+hospcode
+pid
+an
+datetime_admit
+wardstay
+procedcode
+timestart
+timefinish
+serviceprice
+provider
+d_update
+

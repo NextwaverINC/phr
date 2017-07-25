@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+		<text_th>ลําดับที่</text_th>
+	</Table>
+	<Table>
+		<text>date_serv</text>
+		<text_th>วันที่ให้บริการ</text_th>
+	</Table>
+	<Table>
+		<text>gravida</text>
+		<text_th>ครรภ์ที่</text_th>
+	</Table>
+	<Table>
+		<text>ancno</text>
+		<text_th>ANC ช่วงที่</text_th>
+	</Table>
+	<Table>
+		<text>ga</text>
+		<text_th>อายุครรภ์</text_th>
+	</Table>
+	<Table>
+		<text>ancresult</text>
+		<text_th>ผลการตรวจ</text_th>
+	</Table>
+	<Table>
+		<text>ancplace</text>
+		<text_th>สถานที่รับบริการฝากครรภ์</text_th>
+	</Table>
+	<Table>
+		<text>provider</text>
+		<text_th>เลขที่ผู้ให้บริการ</text_th>
+	</Table>
+	<Table>
+		<text>d_update</text>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+	</Table>
+</Items>

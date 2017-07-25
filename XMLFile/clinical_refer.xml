@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>เลขที่การส่งต่อผู้ป่วย</text_th>
+		<text>referid</text>
+	</Table>
+	<Table>
+		<text_th>เลขที่การส่งต่อผู้ป่วยกลางของ จังหวัด</text_th>
+		<text>referid_province</text>
+	</Table>
+	<Table>
+		<text_th>วันที่เวลาการประเมินทางคลินิก</text_th>
+		<text>datetime_assess</text>
+	</Table>
+	<Table>
+		<text_th>รหัสการตรวจประเมินทางคลินิก</text_th>
+		<text>clinicalcode</text>
+	</Table>
+	<Table>
+		<text_th>ชื่อการตรวจประเมินทางคลินิก</text_th>
+		<text>clinicalname</text>
+	</Table>
+	<Table>
+		<text_th>ผลการตรวจประเมินทางคลินิกที่ มีค่าเป็นตัวเลข</text_th>
+		<text>clinicalvaule</text>
+	</Table>
+	<Table>
+		<text_th>คำอธิบายผลการตรวจประเมินทางคลินิก</text_th>
+		<text>clinicalresult</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปทีที่ปรับปรุง</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

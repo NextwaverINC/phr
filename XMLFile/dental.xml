@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+		<text_th>ลําดับที่</text_th>
+	</Table>
+	<Table>
+		<text>date_serv</text>
+		<text_th>วันที่ให้บริการ</text_th>
+	</Table>
+	<Table>
+		<text>denttype</text>
+		<text_th>"ประเภทผู้ได้รับบริการตรวจสภาวะทันตสุขภาพ"</text_th>
+	</Table>
+	<Table>
+		<text>servplace</text>
+		<text_th>บริการใน-นอกสถานบริการ</text_th>
+	</Table>
+	<Table>
+		<text>pteeth</text>
+		<text_th>จำนวนฟันแท้ที่มีอยู่ (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>pcaries</text>
+		<text_th>จำนวนฟันแท้ผุที่ไม่ได้อุด (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>pfilling</text>
+		<text_th>จำนวนฟันแท้ที่ได้รับการอุด (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>pextract</text>
+		<text_th>จำนวนฟันแท้ที่ถอนหรือหลุด (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>dteeth</text>
+		<text_th>จำนวนฟันน้ำนมที่มีอยู่่ (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>dcaries</text>
+		<text_th>จำนวนฟันน้ำนมผุที่ไม่ได้อุด (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>dfilling</text>
+		<text_th>จำนวนฟันน้ำนมที่ได้รับการอุด (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>dextract</text>
+		<text_th>จำนวนฟันน้ำนมที่ถอนหรือหลุด (ซี่)</text_th>
+	</Table>
+	<Table>
+		<text>need_fluoride</text>
+		<text_th>จำเป็นต้องทา/เคลือบฟลูออไรด์</text_th>
+	</Table>
+	<Table>
+		<text>need_scaling</text>
+		<text_th>จำเป็นต้องขูดหินน้ำลาย</text_th>
+	</Table>
+	<Table>
+		<text>need_sealant</text>
+		<text_th>จำนวนฟันที่ต้องเคลือบหลุมร่องฟัน</text_th>
+	</Table>
+	<Table>
+		<text>need_pfilling</text>
+		<text_th>จำนวนฟันแท้ที่ต้องอุด</text_th>
+	</Table>
+	<Table>
+		<text>need_dfilling</text>
+		<text_th>จำนวนฟันน้ำนมที่ต้องอุด</text_th>
+	</Table>
+	<Table>
+		<text>need_pextract</text>
+		<text_th>จำนวนฟันแท้ที่ต้องถอน/รักษาคลองรากฟัน</text_th>
+	</Table>
+	<Table>
+		<text>need_dextract</text>
+		<text_th>จำนวนฟันน้ำนมที่ต้องถอน/รักษาคลองรากฟัน</text_th>
+	</Table>
+	<Table>
+		<text>nprosthesis</text>
+		<text_th>จำเป็นต้องใส่ฟันเทียม</text_th>
+	</Table>
+	<Table>
+		<text>permanent_permanent</text>
+		<text_th>จำนวนคู่สบฟันแท้กับฟันแท้</text_th>
+	</Table>
+	<Table>
+		<text>permanent_prosthesis</text>
+		<text_th>จำนวนคู่สบฟันแท้กับฟันเทียม</text_th>
+	</Table>
+	<Table>
+		<text>prosthesis_prosthesis</text>
+		<text_th>จำนวนคู่สบฟันเทียมกับฟันเทียม</text_th>
+	</Table>
+	<Table>
+		<text>gum</text>
+		<text_th>สภาวะปริทันต์</text_th>
+	</Table>
+	<Table>
+		<text>schooltype</text>
+		<text_th>สถานศึกษา</text_th>
+	</Table>
+	<Table>
+		<text>class</text>
+		<text_th>ระดับการศึกษา</text_th>
+	</Table>
+	<Table>
+		<text>provider</text>
+		<text_th>เลขที่ผู้ให้บริการ</text_th>
+	</Table>
+	<Table>
+		<text>d_update</text>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+	</Table>
+</Items>

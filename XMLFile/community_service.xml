@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>ลําดับที่</text_th>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text_th>วันที่ให้บริการ</text_th>
+		<text>date_serv</text>
+	</Table>
+	<Table>
+		<text_th>รหัสการให้บริการในชุมชน</text_th>
+		<text>comservice</text>
+	</Table>
+	<Table>
+		<text_th>เลขที่ผู้ให้บริการ</text_th>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปทีที่ปรับปรุง</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

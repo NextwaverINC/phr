@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>gravida</text>
+	</Table>
+	<Table>
+		<text>lmp</text>
+	</Table>
+	<Table>
+		<text>edc</text>
+	</Table>
+	<Table>
+		<text>bdate</text>
+	</Table>
+	<Table>
+		<text>bresult</text>
+	</Table>
+	<Table>
+		<text>bplace</text>
+	</Table>
+	<Table>
+		<text>bhosp</text>
+	</Table>
+	<Table>
+		<text>btype</text>
+	</Table>
+	<Table>
+		<text>bdoctor</text>
+	</Table>
+	<Table>
+		<text>lborn</text>
+	</Table>
+	<Table>
+		<text>sborn</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

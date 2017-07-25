@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>an</text>
+		<text_th>เลขที่ผู้ป่วยใน</text_th>
+	</Table>
+	<Table>
+		<text>seq</text>
+		<text_th>ลําดับที่</text_th>
+	</Table>
+	<Table>
+		<text>date_serv</text>
+		<text_th>วันที่ให้บริการ</text_th>
+	</Table>
+	<Table>
+		<text>clinic</text>
+		<text_th>แผนกที่รับบริการ</text_th>
+	</Table>
+	<Table>
+		<text>apdate</text>
+		<text_th>วันที่นัด</text_th>
+	</Table>
+	<Table>
+		<text>aptype</text>
+		<text_th>ประเภทกิจกรรมที่นัด</text_th>
+	</Table>
+	<Table>
+		<text>apdiag</text>
+		<text_th>รหัสโรคที่นัดมาตรวจ</text_th>
+	</Table>
+	<Table>
+		<text>provider</text>
+		<text_th>เลขที่ผู้ให้บริการ</text_th>
+	</Table>
+	<Table>
+		<text>d_update</text>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+	</Table>
+</Items>

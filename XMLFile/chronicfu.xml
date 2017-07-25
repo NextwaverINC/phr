@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>ลําดับที่</text_th>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text_th>วันที่ตรวจ</text_th>
+		<text>date_serv</text>
+	</Table>
+	<Table>
+		<text_th>น้ำหนัก</text_th>
+		<text>weight</text>
+	</Table>
+	<Table>
+		<text_th>ส่วนสูง</text_th>
+		<text>height</text>
+	</Table>
+	<Table>
+		<text_th>เส้นรอบเอว (ซม.)</text_th>
+		<text>waist_cm</text>
+	</Table>
+	<Table>
+		<text_th>ความดันโลหิต ซิสโตลิก</text_th>
+		<text>sbp</text>
+	</Table>
+	<Table>
+		<text_th>ความดันโลหิต ไดแอสโตลิก</text_th>
+		<text>dbp</text>
+	</Table>
+	<Table>
+		<text_th>ตรวจเท้า</text_th>
+		<text>foot</text>
+	</Table>
+	<Table>
+		<text_th>ตรวจจอประสาทตา</text_th>
+		<text>retina</text>
+	</Table>
+	<Table>
+		<text_th>เลขที่ผู้ให้บริการ</text_th>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

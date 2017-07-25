@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text>date_serv</text>
+	</Table>
+	<Table>
+		<text>labtest</text>
+	</Table>
+	<Table>
+		<text>labresult</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

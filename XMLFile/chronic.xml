@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>วันที่ตรวจพบครั้งแรก</text_th>
+		<text>date_diag</text>
+	</Table>
+	<Table>
+		<text_th>รหัสวินิฉัยโรคเรื้อรัง</text_th>
+		<text>chronic</text>
+	</Table>
+	<Table>
+		<text_th>สถานพยาบาลที่วินิจฉัยครั้งแรก</text_th>
+		<text>hosp_dx</text>
+	</Table>
+	<Table>
+		<text_th>สถานพยาบาลที่รับบริการประจำ</text_th>
+		<text>hosp_rx</text>
+	</Table>
+	<Table>
+		<text_th>วันที่จำหน่าย</text_th>
+		<text>date_disch</text>
+	</Table>
+	<Table>
+		<text_th>ประเภทการจำหน่าย หรือสถานะ ของผู้ป่วยที่ทราบผลหลังสุด</text_th>
+		<text>typedisch</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

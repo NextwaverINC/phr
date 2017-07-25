@@ -1,0 +1,16 @@
+labor
+hospcode
+pid
+gravida
+lmp
+edc
+bdate
+bresult
+bplace
+bhosp
+btype
+bdoctor
+lborn
+sborn
+d_update
+

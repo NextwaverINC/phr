@@ -1,0 +1,12 @@
+postnatal
+hospcode
+pid
+seq
+gravida
+bdate
+ppcare
+ppplace
+ppresult
+provider
+d_update
+

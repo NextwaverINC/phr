@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>hospcode</text>
+	</Table>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>registerno</text>
+	</Table>
+	<Table>
+		<text>council</text>
+	</Table>
+	<Table>
+		<text>cid</text>
+	</Table>
+	<Table>
+		<text>prename</text>
+	</Table>
+	<Table>
+		<text>name</text>
+	</Table>
+	<Table>
+		<text>lname</text>
+	</Table>
+	<Table>
+		<text>sex</text>
+	</Table>
+	<Table>
+		<text>birth</text>
+	</Table>
+	<Table>
+		<text>providertype</text>
+	</Table>
+	<Table>
+		<text>startdate</text>
+	</Table>
+	<Table>
+		<text>outdate</text>
+	</Table>
+	<Table>
+		<text>movefrom</text>
+	</Table>
+	<Table>
+		<text>moveto</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

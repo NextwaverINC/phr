@@ -1,0 +1,13 @@
+procedure_refer
+hospcode
+referid
+referid_province
+timestart
+timefinish
+procedurename
+procedcode
+pdescription
+procedresult
+provider
+d_update
+

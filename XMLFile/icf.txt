@@ -1,0 +1,11 @@
+icf
+hospcode
+disabid
+pid
+seq
+date_serv
+icf
+qualifier
+provider
+d_update
+

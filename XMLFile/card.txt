@@ -1,0 +1,12 @@
+card
+hospcode
+pid
+instype_old
+instype_new
+insid
+startdate
+expiredate
+main
+sub
+d_update
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+		<text_th>ลําดับที่</text_th>
+	</Table>
+	<Table>
+		<text>datetime_serv</text>
+		<text_th>วันที่และเวลามารับบริการ</text_th>
+	</Table>
+	<Table>
+		<text>datetime_ae</text>
+		<text_th>วันที่และเวลาเกิดอุบัติเหตุ</text_th>
+	</Table>
+	<Table>
+		<text>aetype</text>
+		<text_th>ประเภทผู้ป่วยอุบัติเหตุ</text_th>
+	</Table>
+	<Table>
+		<text>aeplace</text>
+		<text_th>สถานที่เกิดอุบัติเหตุ</text_th>
+	</Table>
+	<Table>
+		<text>typein_ae</text>
+		<text_th>ประเภทการมารับบริการกรณี อุบัติเหตุฉุกเฉิน</text_th>
+	</Table>
+	<Table>
+		<text>traffic</text>
+		<text_th>ประเภทผู้บาดเจ็บ (อุบัติเหตุจราจร)</text_th>
+	</Table>
+	<Table>
+		<text>vehicle</text>
+		<text_th>ประเภทยานพาหนะที่เกิดเหตุ</text_th>
+	</Table>
+	<Table>
+		<text>alcohol</text>
+		<text_th>การดื่มแอลกอฮอลล์</text_th>
+	</Table>
+	<Table>
+		<text>nacrotic_drug</text>
+		<text_th>การใช้ยาสารเสพติดขณะเกิด อุบัติเหตุ</text_th>
+	</Table>
+	<Table>
+		<text>belt</text>
+		<text_th>การคาดเข็มขัดนิรภัย</text_th>
+	</Table>
+	<Table>
+		<text>helmet</text>
+		<text_th>การสวมหมวกนิรภัย</text_th>
+	</Table>
+	<Table>
+		<text>airway</text>
+		<text_th>การดูแลการหายใจ</text_th>
+	</Table>
+	<Table>
+		<text>stopbleed</text>
+		<text_th>การห้ามเลือด</text_th>
+	</Table>
+	<Table>
+		<text>splint</text>
+		<text_th>การใส่ splint/ slab</text_th>
+	</Table>
+	<Table>
+		<text>fluid</text>
+		<text_th>การให้น้ำเกลือ</text_th>
+	</Table>
+	<Table>
+		<text>urgency</text>
+		<text_th>ระดับความเร่งด่วน</text_th>
+	</Table>
+	<Table>
+		<text>coma_eye</text>
+		<text_th>ระดับความรู้สึกทางด้านตา</text_th>
+	</Table>
+	<Table>
+		<text>coma_speak</text>
+		<text_th>ระดับความรู้สึกทางด้านการพูด</text_th>
+	</Table>
+	<Table>
+		<text>coma_movement</text>
+		<text_th>ระดับความรู้สึกทางด้านการเคลื่อนไหว</text_th>
+	</Table>
+	<Table>
+		<text>d_update</text>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+	</Table>
+</Items>

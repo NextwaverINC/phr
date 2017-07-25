@@ -1,0 +1,47 @@
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Import>
+	<Item>
+		<table>person</table>
+		<name-th>รายละเอียดบุคคล</name-th>
+	</Item>
+	<Item>
+		<table>address</table>
+		<name-th>ที่อยู่</name-th>
+	</Item>
+	<Item>
+		<table>death</table>
+		<name-th>สาเหตุการตาย</name-th>
+	</Item>
+	<Item>
+		<table>chronic</table>
+		<name-th>ทะเบียนโรคเรื้อรัง</name-th>
+	</Item>
+	<Item>
+		<table>card</table>
+		<name-th>หมายเลขบัตรทะเบียนสุขภาพ</name-th>
+	</Item>
+	<Item>
+		<table>disability</table>
+		<name-th>ประวัติการขึ้นทะเบียนคนพิการ</name-th>
+	</Item>
+	<Item>
+		<table>women</table>
+		<name-th>ประวัติการขึ้นทะเบียนของผู้หญิงที่มีครอบครัว</name-th>
+	</Item>
+	<Item>
+		<table>drugallergy</table>
+		<name-th>ประวัติการแพ้ยา</name-th>
+	</Item>
+	<Item>
+		<table>prenatal</table>
+		<name-th>ข้อมูลประวัติการตั้งครรภ์ ของหญิงตั้งครรภ์</name-th>
+	</Item>
+	<Item>
+		<table>labor</table>
+		<name-th>ข้อมูลประวัติการคลอด</name-th>
+	</Item>
+	<Item>
+		<table>newborn</table>
+		<name-th>ข้อมูลประวัติการคลอดของทารก</name-th>
+	</Item>
+</Import>

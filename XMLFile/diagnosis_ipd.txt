@@ -1,0 +1,11 @@
+diagnosis_ipd
+hospcode
+pid
+an
+datetime_admit
+warddiag
+diagtype
+diagcode
+provider
+d_update
+

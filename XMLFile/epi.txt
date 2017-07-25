@@ -1,0 +1,10 @@
+epi
+hospcode
+pid
+seq
+date_serv
+vaccinetype
+vaccineplace
+provider
+d_update
+

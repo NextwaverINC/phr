@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text>date_serv</text>
+	</Table>
+	<Table>
+		<text>clinic</text>
+	</Table>
+	<Table>
+		<text>didstd</text>
+	</Table>
+	<Table>
+		<text>dname</text>
+	</Table>
+	<Table>
+		<text>amount</text>
+	</Table>
+	<Table>
+		<text>unit</text>
+	</Table>
+	<Table>
+		<text>unit_packing</text>
+	</Table>
+	<Table>
+		<text>drugprice</text>
+	</Table>
+	<Table>
+		<text>drugcost</text>
+	</Table>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

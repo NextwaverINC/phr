@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>referid</text>
+	</Table>
+	<Table>
+		<text>referid_province</text>
+	</Table>
+	<Table>
+		<text>datetime_invest</text>
+	</Table>
+	<Table>
+		<text>investcode</text>
+	</Table>
+	<Table>
+		<text>investname</text>
+	</Table>
+	<Table>
+		<text>datetime_report</text>
+	</Table>
+	<Table>
+		<text>investvalue</text>
+	</Table>
+	<Table>
+		<text>investresult</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

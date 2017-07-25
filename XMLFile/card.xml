@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>instype_old</text>
+		<text_th>ประเภทสิทธิการรักษา (รหัสเดิม)</text_th>
+	</Table>
+	<Table>
+		<text>instype_new</text>
+		<text_th>ประเภทสิทธิการรักษา</text_th>
+	</Table>
+	<Table>
+		<text>insid</text>
+		<text_th>เลขที่บัตรสิทธิ</text_th>
+	</Table>
+	<Table>
+		<text>startdate</text>
+		<text_th>วันที่ออกบัตร</text_th>
+	</Table>
+	<Table>
+		<text>expiredate</text>
+		<text_th>วันที่หมดอายุ</text_th>
+	</Table>
+	<Table>
+		<text>main</text>
+		<text_th>สถานบริการหลัก</text_th>
+	</Table>
+	<Table>
+		<text>sub</text>
+		<text_th>สถานบริการรอง</text_th>
+	</Table>
+	<Table>
+		<text>d_update</text>
+		<text_th>วันเดือนปีที่ปรับปรุง</text_th>
+	</Table>
+</Items>

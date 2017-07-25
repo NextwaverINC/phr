@@ -1,0 +1,12 @@
+newborncare
+hospcode
+pid
+seq
+bdate
+bcare
+bcplace
+bcareresult
+food
+provider
+d_update
+

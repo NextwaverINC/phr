@@ -1,0 +1,11 @@
+clinical_refer
+hospcode
+referid
+referid_province
+datetime_assess
+clinicalcode
+clinicalname
+clinicalvaule
+clinicalresult
+d_update
+

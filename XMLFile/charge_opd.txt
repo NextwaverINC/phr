@@ -1,0 +1,15 @@
+charge_opd
+hospcode
+pid
+seq
+date_serv
+clinic
+chargeitem
+chargelist
+quantity
+instype
+cost
+price
+payprice
+d_update
+

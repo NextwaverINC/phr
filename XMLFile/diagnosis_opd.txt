@@ -1,0 +1,11 @@
+diagnosis_opd
+hospcode
+pid
+seq
+date_serv
+diagtype
+diagcode
+clinic
+provider
+d_update
+

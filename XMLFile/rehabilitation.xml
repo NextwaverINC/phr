@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>seq</text>
+	</Table>
+	<Table>
+		<text>an</text>
+	</Table>
+	<Table>
+		<text>date_admit</text>
+	</Table>
+	<Table>
+		<text>date_serv</text>
+	</Table>
+	<Table>
+		<text>date_start</text>
+	</Table>
+	<Table>
+		<text>date_finish</text>
+	</Table>
+	<Table>
+		<text>rehabcode</text>
+	</Table>
+	<Table>
+		<text>at_device</text>
+	</Table>
+	<Table>
+		<text>at_no</text>
+	</Table>
+	<Table>
+		<text>rehabplace</text>
+	</Table>
+	<Table>
+		<text>provider</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

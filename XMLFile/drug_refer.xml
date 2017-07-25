@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>referid</text>
+	</Table>
+	<Table>
+		<text>referid_province</text>
+	</Table>
+	<Table>
+		<text>datetime_dstart</text>
+	</Table>
+	<Table>
+		<text>datetime_dfinish</text>
+	</Table>
+	<Table>
+		<text>didstd</text>
+	</Table>
+	<Table>
+		<text>dname</text>
+	</Table>
+	<Table>
+		<text>ddescription</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

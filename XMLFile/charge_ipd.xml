@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>เลขที่ผู้ป่วยใน</text_th>
+		<text>an</text>
+	</Table>
+	<Table>
+		<text_th>วันที่และเวลารับผู้ป่วยไว้ใน โรงพยาบาล</text_th>
+		<text>datetime_admit</text>
+	</Table>
+	<Table>
+		<text_th>แผนกที่รับผู้ป่วย</text_th>
+		<text>wardstay</text>
+	</Table>
+	<Table>
+		<text_th>หมวดของค่าบริการ</text_th>
+		<text>chargeitem</text>
+	</Table>
+	<Table>
+		<text_th>รหัสรายการค่าบริการ</text_th>
+		<text>chargelist</text>
+	</Table>
+	<Table>
+		<text_th>จำนวนหน่วยที่เบิก</text_th>
+		<text>quantity</text>
+	</Table>
+	<Table>
+		<text_th>สิทธิการรักษาที่เบิก</text_th>
+		<text>instype</text>
+	</Table>
+	<Table>
+		<text_th>ราคาทุนของบริการ</text_th>
+		<text>cost</text>
+	</Table>
+	<Table>
+		<text_th>ค่าบริการทั้งหมด (ราคาขาย)</text_th>
+		<text>price</text>
+	</Table>
+	<Table>
+		<text_th>ค่าบริการที่ต้องจ่ายเอง</text_th>
+		<text>payprice</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปีที่ปรับปรุงข้อมูล</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

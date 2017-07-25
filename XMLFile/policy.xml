@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text>policy_id</text>
+	</Table>
+	<Table>
+		<text>policy_year</text>
+	</Table>
+	<Table>
+		<text>policy_data</text>
+	</Table>
+	<Table>
+		<text>d_update</text>
+	</Table>
+</Items>

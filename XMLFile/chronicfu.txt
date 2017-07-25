@@ -1,0 +1,15 @@
+chronicfu
+hospcode
+pid
+seq
+date_serv
+weight
+height
+waist_cm
+sbp
+dbp
+foot
+retina
+provider
+d_update
+

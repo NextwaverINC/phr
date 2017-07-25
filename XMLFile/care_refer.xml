@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>
+		<text_th>เลขที่การส่งต่อผู้ป่วย</text_th>
+		<text>referid</text>
+	</Table>
+	<Table>
+		<text_th>เลขที่การส่งต่อผู้ป่วยกลางของ จังหวัด</text_th>
+		<text>referid_province</text>
+	</Table>
+	<Table>
+		<text_th>รหัสแสดงการให้การดูแลผู้ป่วยขณะส่งต่อผู้ป่วย</text_th>
+		<text>caretype</text>
+	</Table>
+	<Table>
+		<text_th>วันเดือนปทีที่ปรับปรุง</text_th>
+		<text>d_update</text>
+	</Table>
+</Items>

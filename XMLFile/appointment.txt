@@ -1,0 +1,13 @@
+appointment
+hospcode
+pid
+an
+seq
+date_serv
+clinic
+apdate
+aptype
+apdiag
+provider
+d_update
+

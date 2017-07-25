@@ -1,0 +1,11 @@
+procedure_opd
+hospcode
+pid
+seq
+date_serv
+clinic
+procedcode
+serviceprice
+provider
+d_update
+

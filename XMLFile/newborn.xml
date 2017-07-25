@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Items>
+	<Table>mpid</Table>
+	<Table>gravida</Table>
+	<Table>ga</Table>
+	<Table>bdate</Table>
+	<Table>btime</Table>
+	<Table>bplace</Table>
+	<Table>bhosp</Table>
+	<Table>birthno</Table>
+	<Table>btype</Table>
+	<Table>bdoctor</Table>
+	<Table>bweight</Table>
+	<Table>asphyxia</Table>
+	<Table>vitk</Table>
+	<Table>tsh</Table>
+	<Table>tshresult</Table>
+	<Table>d_update</Table>
+</Items>

@@ -1,0 +1,35 @@
+<!-- edited with XMLSpy v2011 rel. 3 sp1 (http://www.altova.com) by Narin Inyod (Nextwaver.net Co.,Ltd.) -->
+<Import>
+	<Item>
+		<table>rehabilitation</table>
+		<name-th>ประวัติการรับบริการฟื้นฟูสุขภาพ</name-th>
+	</Item>
+	<Item>
+		<table>ncdscreen</table>
+		<name-th>ข้อมูลการให้บริการคัดกรองโรคเบาหวานและความดันโลหิตสูง</name-th>
+	</Item>
+	<Item>
+		<table>anc</table>
+		<name-th>ข้อมูลการให้บริการฝากครรภ์กับหญิงตั้งครรภ์ที่มารับบริการ</name-th>
+	</Item>
+	<Item>
+		<table>postnatal</table>
+		<name-th>ข้อมูลประวัติการดูแลมารดาหลังคลอด</name-th>
+	</Item>
+	<Item>
+		<table>newborncare</table>
+		<name-th>ข้อมูลการดูแลทารกหลังคลอดของหญิงตั้งครรภ์</name-th>
+	</Item>
+	<Item>
+		<table>epi</table>
+		<name-th>ประวัติการให้บริการวัคซีน</name-th>
+	</Item>
+	<Item>
+		<table>nutrition</table>
+		<name-th>ข้อมูลการวัดระดับโภชนาการและพัฒนาการเด็กอายุ 0-5 ปี</name-th>
+	</Item>
+	<Item>
+		<table>specialpp</table>
+		<name-th>ข้อมูลการให้บริการส่งเสริมสุขภาพป้องกันโรคเฉพาะสำหรับผู้ที่มารับบริการ</name-th>
+	</Item>
+</Import>
